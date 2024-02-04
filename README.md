@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karan</h1>
-- 🌱 I’m currently learning **Front End Developer**
+<h1 align="center">Hi 🙋🏻‍♂️ I'm Karan Mundre</h1>
+I’m currently learning **Front End Developer**
 
 - 📫 How to reach me **karanmundre73@gmail.com**
 
