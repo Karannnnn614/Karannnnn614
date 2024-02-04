@@ -1,5 +1,6 @@
 <h1 align="center">Hi 🙋🏻‍♂️ I'm Karan Mundre</h1>
 I’m currently learning **Front End Developer**
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="nothing">
 
 - 📫 How to reach me **workwithkaran614@gmail.com**
 
