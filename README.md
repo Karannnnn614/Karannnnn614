@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋🏻‍♂️ I'm Karan Mundre</h1>
 I’m currently learning **Front End Developer**
 
-- 📫 How to reach me **karanmundre73@gmail.com**
+- 📫 How to reach me **workwithkaran614@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
