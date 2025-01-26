@@ -24,17 +24,19 @@ I’m currently Full Stack Developer
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
 </p>
+
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+<!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a> -->
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3776AB.svg?logo=matplotlib&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
 
-    
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -55,4 +57,15 @@ I’m currently Full Stack Developer
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white"></a>
     <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+</p>
+
+### 🌐 Deployment Tools
+
+<p>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white"></a>
+<!--     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoft-azure&logoColor=white"></a> -->
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"></a>
 </p>
