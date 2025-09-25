@@ -69,3 +69,8 @@ I’m currently Full Stack Developer
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Karannnnn614&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
+
