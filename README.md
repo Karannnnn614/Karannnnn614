@@ -7,7 +7,7 @@ I’m currently Full Stack Developer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karannnnn614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karannnnn614" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karannnnn614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karannnnn614" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karannnnn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karannnnn614" height="30" width="40" /></a>
 <a href="https://instagram.com/karan_614_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_614_" height="30" width="40" /></a>
 </p>
 
