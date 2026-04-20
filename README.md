@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 <br/>
 
 I'm a passionate Full-Stack Developer currently pursuing my **B.Tech in Information Technology** from **MITS, Gwalior**. I specialize in building responsive and scalable web applications using the MERN stack. From hackathons to real-world smart city projects, I thrive on turning complex ideas into clean, efficient, and user-friendly solutions.
@@ -72,17 +73,6 @@ I'm constantly exploring emerging technologies — particularly in **AI, data an
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220.svg?logo=pnpm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white)
-
----
-
-## 🏆 Achievements
-
-| 🥇 | Event | Details |
-|---|---|---|
-| Finalist | **Hack'Ndore** — National Level Hackathon, Indore Municipal Corp `Jul 2024` | Workshop Management System with real-time analytics. Top finalist among 100+ teams. |
-| Finalist | **Google Agentic AI Day Hackathon** — Google & Hack2Skill `Jul 2025` | AI-driven agentic workflow using LLMs for task automation and intelligent orchestration. |
-| Finalist | **Odoo Hackathon** — Odoo Community `Aug 2025` | Custom ERP enhancement module automating workflows and integrating analytics dashboards. |
-| Organizer | **Code Coalescence 2025** — MITS Gwalior | Led technical planning and execution of institute-level hackathon as Technical Head. |
 
 ---
 
