@@ -1,11 +1,10 @@
-<h1>Hey, I'm Karan 👋</h1>
+# Hey, I'm Karan 👋
 
-<p>
-  <b>Full Stack Developer</b> · Building on the web with React, Node.js & cloud infra. Always shipping.
-</p>
+<table>
+<tr>
+<td valign="top" width="55%">
 
-<img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF">
-
+**Full Stack Engineer** • Production Systems • AI/ML Integration
 <p>
   <a href="mailto:workwithkaran614@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
@@ -24,58 +23,52 @@
   </a>
 </p>
 
-<br/>
+Building end-to-end solutions. From architecture to deployment. Focused on scalable, maintainable systems that solve real problems.
 
-I'm a passionate Full-Stack Developer currently pursuing my **B.Tech in Information Technology** from **MITS, Gwalior**. I specialize in building responsive and scalable web applications using the MERN stack. From hackathons to real-world smart city projects, I thrive on turning complex ideas into clean, efficient, and user-friendly solutions.
+```json
+{
+  "role": "Full Stack Developer",
+  "focus": "System design → Implementation → Production",
+  "expertise": [
+    "End-to-end architecture",
+    "Frontend (React, Next.js)",
+    "Backend (Node.js, PostgreSQL)",
+    "AI/ML integration (LLMs, RAG)",
+    "Infrastructure & DevOps",
+    "Performance optimization"
+  ],
+  "approach": "No shortcuts. Clean code. Production-ready."
+}
+```
 
-I'm constantly exploring emerging technologies — particularly in **AI, data analytics, and UI/UX design** — to stay at the forefront of innovation and deliver impactful digital experiences.
+</td>
+<td valign="center" width="45%">
 
-<br clear="right"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Developer"/>
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend** — Client-side technologies I use to build interactive UIs
-
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/ReactJS-61DAFB.svg?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF.svg?logo=framer&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn-000000.svg?logo=shadcnui&logoColor=white)
-
-**Backend** — Server-side technologies for powerful APIs and services
-
-![Node.js](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/ExpressJS-000000.svg?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1.svg?logo=zod&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white)
-
-**DevOps & Tools** — Tools and technologies for deployment and development
-
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
-![pnpm](https://img.shields.io/badge/pnpm-F69220.svg?logo=pnpm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karannnnn614&style=flat-square&color=blue" alt="Profile views" />
-</p>
+## Tech Stack
+ 
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF.svg?logo=framer&logoColor=white) ![Shadcn](https://img.shields.io/badge/Shadcn/UI-000000.svg?logo=shadcnui&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38.svg?logo=react&logoColor=white)
+ 
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFA500.svg?logo=firebase&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1.svg?logo=zod&logoColor=white)
+ 
+### AI / ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-6366F1.svg?logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E.svg?logo=huggingface&logoColor=black)
+ 
+### DevOps & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?logo=sentry&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
+ 
+### Developer Tools
+![pnpm](https://img.shields.io/badge/pnpm-F69220.svg?logo=pnpm&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?logo=eslint&logoColor=white)
+ 
