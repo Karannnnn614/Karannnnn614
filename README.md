@@ -37,7 +37,7 @@ Building end-to-end solutions. From architecture to deployment. Focused on scala
     "Infrastructure & DevOps",
     "Performance optimization"
   ],
-  "approach": "No shortcuts. Clean code. Production-ready."
+ "approach": "Idea → Design → Code → Deploy → Repeat."
 }
 ```
 
