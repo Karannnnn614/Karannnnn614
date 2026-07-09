@@ -18,7 +18,7 @@
   <a href="https://instagram.com/karan_614_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>&nbsp;
-  <a href="https://karan-mundre.vercel.app">
+  <a href="https://karannnnn614.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
