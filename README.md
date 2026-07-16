@@ -49,7 +49,7 @@ Building end-to-end solutions. From architecture to deployment. Focused on scala
 </td>
 </tr>
 </table>
-
+<!-- 
 ---
 
 ## Tech Stack
@@ -71,4 +71,4 @@ Building end-to-end solutions. From architecture to deployment. Focused on scala
  
 ### Developer Tools
 ![pnpm](https://img.shields.io/badge/pnpm-F69220.svg?logo=pnpm&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?logo=eslint&logoColor=white)
- 
+ -->
